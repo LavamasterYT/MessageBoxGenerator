@@ -1,0 +1,16 @@
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\bin\Debug\MessageBoxGenerator.exe.config
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\bin\Debug\MessageBoxGenerator.exe
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\bin\Debug\MessageBoxGenerator.pdb
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MessageBoxGenerator.csprojAssemblyReference.cache
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\App.g.cs
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MessageBoxGenerator_MarkupCompile.cache
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MessageBoxGenerator_MarkupCompile.lref
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\App.baml
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MainWindow.baml
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MessageBoxGenerator.g.resources
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MessageBoxGenerator.Properties.Resources.resources
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MessageBoxGenerator.csproj.GenerateResource.cache
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MessageBoxGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MessageBoxGenerator.exe
+C:\Users\Freddy\source\repos\MessageBoxGenerator\MessageBoxGenerator\obj\Debug\MessageBoxGenerator.pdb
