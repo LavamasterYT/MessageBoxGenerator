@@ -6,4 +6,4 @@ This is a WPF and C# application that allows you to create a custom message box.
 
 ## WARNING!!
 
-This code is made by a 13yo, so don't expect comments and clean code.
+Don't expect comments and clean code.
